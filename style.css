@@ -18,6 +18,7 @@ section{
 .half-width{
     width: 50%;
     padding-left: 5%;
+    
 }
 .half-width img{
     width: 80%;
@@ -36,4 +37,13 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     margin: ;
+}
+
+.resume-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 80px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
 }
